@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 
 
 [![Gabriel Pakulski's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielPakulski&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielPakulski)](https://github.com/anuraghazra/github-readme-stats)
