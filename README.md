@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: gabrielpakulski@hotmail.com
 
 
-[![Gabriel Pakulski's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielPakulski)](https://github.com/anuraghazra/github-readme-stats)
+[![Gabriel Pakulski's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielPakulski&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
