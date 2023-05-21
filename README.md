@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on NLG Models, such as: BART and T5.
+- 🔭 I’m currently working on my personal website and portfolio. Previously worked on NLG Models, such as: BART and T5.
 - 🌱 I’m currently learning about Full-Stack Development
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: gabrielpakulski@hotmail.com
